@@ -11,3 +11,7 @@ For the APK file inside platforms folder goto android and build and outputs and 
 Code Test :
 To test the code run the command ionic serve  it will open up browser and display the application
 By installing the apk in to device also another method to test the application
+
+
+ScreenShot:
+attached in repositary for reference localhost_8100_(Galaxy S5)
