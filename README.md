@@ -15,3 +15,10 @@ By installing the apk in to device also another method to test the application
 
 ScreenShot:
 attached in repositary for reference localhost_8100_(Galaxy S5)
+
+
+<h1>Enabling API_KEY:</h1>
+Newyork times have diffrent kind of categories
+By selecting the perticular categorie here i selected Articles api&services.
+By enablig the api for that categorie it will provide one normal key and another secreat key.
+SO for this application am using normal key as apikey to accsess categories 
