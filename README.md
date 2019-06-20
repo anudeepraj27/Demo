@@ -33,3 +33,7 @@ SO for this application am using normal key as apikey to accsess categories. <br
 <h1>Code : </h1>
 In this application am just using one Ajax Get request to fetch the data from the URL.<br>
 Response is in Json format simply binding the response to the view.<br>
+
+
+<h1>APK :</h1>
+Attached in repositorie as app_debug.apk.
