@@ -1,17 +1,17 @@
 <h1>Project Creation :</h1> 
 
-To create project ionic start Demo sidemenu. <br>
+ <b>ionic start Demo sidemenu</b>. <br>
 go to project folder and add the platform.<br>
 
 <h1>Adding Platform :</h1>
 Here am adding platform only for android.<br>
-To add the platform ionic cordova platform add android.<br>
+<b>ionic cordova platform add android</b>.<br>
 
 <h1>Build application : </h1>
-To build ionic cordova build android.<br>
+<b>ionic cordova build android</b>.<br>
 
 <h1>Specifications :</h1>
-This is a hybrid application work for both android & ios.<br>
+This is a <b>Hybrid application work for both android & ios</b>.<br>
 To run the application in browser following would be the commond ionic serve.<br> 
 For the APK file inside platforms folder goto android and build and outputs and apk. <br>
 
