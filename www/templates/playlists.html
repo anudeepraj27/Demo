@@ -1,0 +1,27 @@
+<ion-view view-title="NY Times Most Popular">
+  s
+  <ion-icon name="search"></ion-icon>
+  <ion-content style="background-color: #fafafa;">
+    <div class="row" ng-repeat="playlist in playlists"  style="padding: 10px;margin: 5px;">
+
+       <div class="col col-20">
+         <i class="icon ion-record" style="font-size: 35px;color: #e5e5e5;"></i>
+       </div>
+
+        <div class="col col-60" style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
+          <div>{{playlist.title}}</div>
+          <div class="row">
+            <div>{{playlist.byline}}</div>
+           </div>
+          <div class="row">
+            <div class="col col-50">{{playlist.type}}</div>
+            <div class="col col-50"><i class="icon ion-calendar"></i>  {{playlist.published_date}}</div>
+          </div>
+        </div>
+      <div class="col col-20">
+        <i class="icon ion-chevron-right" style="margin-left: 30px;font-size: 20px;color: #e5e5e5;" href="{{playlist.url}}"></i>
+      </div>
+
+    </div>
+  </ion-content>
+</ion-view>
